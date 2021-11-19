@@ -1,6 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define l "\n"
+/*   *
+     **
+     ***
+     ****
+     *****
+*/    
+     
 void pattern1(int n)
 {
 	for(int row=1;row<=n;row++)
